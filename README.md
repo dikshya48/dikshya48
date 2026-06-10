@@ -40,6 +40,7 @@ Whether that means training a model, designing a user experience, wiring sensors
 🎨 The intersection of technology, design, and creativity
 
 
+
 ## A Few Things About Me
 
 ☕ Fueled by coffee and curiosity
