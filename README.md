@@ -1,12 +1,12 @@
 # Hey, I'm Dikshya Giri 👋
 
 Computer Science & Mathematics student.
-
 I love building things that live beyond a screen.
 
 Over the past few years, I've explored everything from gesture-controlled robotic systems and assistive technology for visually impaired individuals to healthcare platforms and intelligent traffic systems. What excites me most isn't a specific technology—it's the process of turning curiosity into something tangible.
 
 Whether that means training a model, designing a user experience, wiring sensors to a robot, or staying up until all night at a hackathon, I'm always chasing ideas that challenge me to learn something new.
+
 
 ## Things I've Been Lucky Enough To Do
 
