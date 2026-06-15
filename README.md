@@ -8,7 +8,7 @@ Over the past few years, I've explored everything from gesture-controlled roboti
 Whether that means training a model, designing a user experience, wiring sensors to a robot, or staying up until all night at a hackathon, I'm always chasing ideas that challenge me to learn something new.
 
 
-## Things I've Been Lucky Enough To Do
+## Awards & Recognition
 
 🏆 1st Place — HackNYU
 
