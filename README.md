@@ -57,3 +57,4 @@ Whether that means training a model, designing a user experience, wiring sensors
 ## Let's Build Something Cool
 
 I'm always excited to connect with builders, researchers, designers, founders, and anyone working on ambitious ideas.
+
