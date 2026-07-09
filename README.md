@@ -5,50 +5,42 @@
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
 <p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OHljMHEzdzNlam5yN2ZycGdzNnhqYnNycTIwMjJsYm8zNnZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" width="400">
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OHljMHEzdzNlam5yN2ZycGdzNnhqYnNycTIwMjJsYm8zNnZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" width="320">
 </p>
 <p align="center"><b>✨ Let's Connect ✨</b></p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/dikshyagiri/" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="35"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="mailto:dgiri@caldwell.edu" target="_blank">
-    <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="42"/>
+    <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="35"/>
   </a>
-  &nbsp;&nbsp;
+  &nbsp;
   <a href="https://www.dikshyagiri.com/" target="_blank">
-    <img src="https://img.shields.io/badge/-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="42"/>
+    <img src="https://img.shields.io/badge/-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="35"/>
   </a>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 👩🏻‍💻&nbsp; About Me
 
 > 🎓 &nbsp; B.S. **Computer Science** — Expected May 2027 · Honors Student · Presidential Scholar
->
 > 🧠 &nbsp; Building at the intersection of **AI/ML, Computer Vision & Robotics**
->
 > 👁️ &nbsp; Led an AI wearable project for visually impaired users — took it to 1st place
->
 > ⚡ &nbsp; Fun fact: I've turned sleep-deprived hackathon nights into trophies more than once 🏆
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🏆&nbsp; Hackathon Wins
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_1st_Place-HackNYU_2025-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/🥈_2nd_Place-HackNJIT_2024-C0C0C0?style=for-the-badge&labelColor=1a1a1a"/>
-</p>
-
-<p align="center">
+  &nbsp;
   <img src="https://img.shields.io/badge/🔟_Top_10-CalHacks_x_Anthropic_x_Amazon-CD7F32?style=for-the-badge&labelColor=1a1a1a"/>
-  &nbsp;&nbsp;
+  &nbsp;
   <img src="https://img.shields.io/badge/🎯_Finalist-HackMIT_2025-9B59B6?style=for-the-badge&labelColor=1a1a1a"/>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🛠️&nbsp; Skills
 **🤖 AI / ML**
@@ -100,7 +92,6 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
 ## 🚀&nbsp; Selected Projects
 
