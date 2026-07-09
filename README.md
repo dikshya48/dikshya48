@@ -7,17 +7,19 @@
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OHljMHEzdzNlam5yN2ZycGdzNnhqYnNycTIwMjJsYm8zNnZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" width="400">
 </p>
+<p align="center"><b>✨ Let's Connect ✨</b></p>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/dikshyagiri/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Dikshya%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.dikshyagiri.com/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-dikshyagiri.com-FF6D00?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="42"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42"/>
   </a>
   &nbsp;&nbsp;
   <a href="mailto:dgiri@caldwell.edu" target="_blank">
-    <img src="https://img.shields.io/badge/Email-dgiri%40caldwell.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="42"/>
+    <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="42"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.dikshyagiri.com/" target="_blank">
+    <img src="https://img.shields.io/badge/-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="42"/>
   </a>
 </p>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
