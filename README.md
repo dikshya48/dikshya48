@@ -1,21 +1,12 @@
+<h2 align="center">
+  💻&nbsp; Hey, I'm Dikshya <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25">
+</h2>
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0:8E2DE2,100:00C9FF&height=130&section=header&text=Dikshya%20Giri&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=55"/>
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
-
-<br>
-
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Computer+Vision+%2B+Robotics+Builder+%F0%9F%A6%BE;Hackathon+Winner+%F0%9F%8F%86;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
-</p>
-
-<br>
-
 <p align="center">
   <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OHljMHEzdzNlam5yN2ZycGdzNnhqYnNycTIwMjJsYm8zNnZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" width="400">
 </p>
-
-<br>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/dikshyagiri/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Dikshya%20Giri-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" height="42"/>
@@ -29,16 +20,9 @@
     <img src="https://img.shields.io/badge/Email-dgiri%40caldwell.edu-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" height="42"/>
   </a>
 </p>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br>
-
 ## 👩🏻‍💻&nbsp; About Me
-
-<br>
 
 > 🎓 &nbsp; B.S. **Computer Science** — Expected May 2027 · Honors Student · Presidential Scholar
 >
@@ -47,16 +31,9 @@
 > 👁️ &nbsp; Led an AI wearable project for visually impaired users — took it to 1st place
 >
 > ⚡ &nbsp; Fun fact: I've turned sleep-deprived hackathon nights into trophies more than once 🏆
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br>
-
 ## 🏆&nbsp; Hackathon Wins
-
-<br>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🥇_1st_Place-HackNYU_2025-FFD700?style=for-the-badge&labelColor=1a1a1a"/>
@@ -69,17 +46,9 @@
   &nbsp;&nbsp;
   <img src="https://img.shields.io/badge/🎯_Finalist-HackMIT_2025-9B59B6?style=for-the-badge&labelColor=1a1a1a"/>
 </p>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br>
-
 ## 🛠️&nbsp; Skills
-
-<br>
-
 **🤖 AI / ML**
 
 <p align="left">
@@ -94,8 +63,6 @@
   <img src="https://img.shields.io/badge/RAG-6A0DAD?style=flat-square"/>
 </p>
 
-<br>
-
 **💬 Languages**
 
 <p align="left">
@@ -107,8 +74,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white"/>
 </p>
-
-<br>
 
 **☁️ Full-Stack & Cloud**
 
@@ -122,8 +87,6 @@
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
 </p>
 
-<br>
-
 **📊 Data**
 
 <p align="left">
@@ -135,39 +98,20 @@
   <img src="https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
 </p>
-
-<br>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
 
-<br>
-
 ## 🚀&nbsp; Selected Projects
-
-<br>
 
 🚦 &nbsp; **Smart Traffic Signal Control**
 &nbsp;&nbsp;&nbsp;&nbsp;CV + RL system that cut vehicle wait times by 15.7%, replacing fixed-timing signals
 
-<br>
-
 👁️ &nbsp; **Dristi**
 &nbsp;&nbsp;&nbsp;&nbsp;1st place AI wearable for visually impaired users at HackNYU 2025 (Google x NYU)
-
-<br>
 
 🌱 &nbsp; **CONCAVE**
 &nbsp;&nbsp;&nbsp;&nbsp;Autonomous smart-agriculture robot with 95% accurate crop disease detection
 
-<br>
-
 ✋ &nbsp; **Gamify.work()**
 &nbsp;&nbsp;&nbsp;&nbsp;Gesture-controlled robotic arm with sub-100ms latency, no hardware controller needed
 
-<br>
-
 <p align="center"><i>✨ "Explore and Explode with knowledge" ✨</i></p>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=slice&color=0:00C9FF,33:4A00E0,66:8E2DE2,100:FF0080&height=140&section=footer&reversal=true"/>
