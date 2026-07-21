@@ -1,6 +1,7 @@
 <h2 align="center">
   💻&nbsp; Hey, I'm Dikshya <img src="https://user-images.githubusercontent.com/42378118/110234147-e3259600-7f4e-11eb-95be-0c4047144dea.gif" width="25">
 </h2>
+
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=8E2DE2&center=true&vCenter=true&width=650&lines=Software+Engineer+%F0%9F%92%BB;AI+%2F+ML+Engineer+%F0%9F%A4%96;Hackathon+Winner+%F0%9F%8F%86;Turning+Coffee+%E2%98%95+into+Code+%F0%9F%92%BB" alt="Typing SVG" />
 </p>
