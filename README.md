@@ -20,6 +20,7 @@
   <a href="mailto:dgiri@caldwell.edu" target="_blank">
     <img src="https://img.shields.io/badge/-Mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail" height="35"/>
   </a>
+  
   &nbsp;
   <a href="https://www.dikshyagiri.com/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-2C5364?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" height="35"/>
