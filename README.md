@@ -9,8 +9,7 @@
 <p align="center">
 
   
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OHljMHEzdzNlam5yN2ZycGdzNnhqYnNycTIwMjJsYm8zNnZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" width="320">
-  
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHF0OHljMHEzdzNlam5yN2ZycGdzNnhqYnNycTIwMjJsYm8zNnZvYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/L1R1tvI9svkIWwpVYr/giphy.gif" alt="Coding Girl GIF" width="320"> 
 </p>
 <p align="center"><b>✨ Let's Connect ✨</b></p>
 
